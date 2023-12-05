@@ -1,2 +1,2 @@
 # Piano
-I developed this app using HTML, CSS, JavaScript framework. 
+I developed this piano using HTML, CSS, JavaScript framework. 
